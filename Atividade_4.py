@@ -32,6 +32,6 @@ print("Aluno com a Nota Mais Alta em Prova 2:", aluno_nota_mais_alta[0])
 aluno_nota_mais_alta = encontrar_aluno_nota_mais_alta(dados,"Prova 3")
 print("Aluno com a Nota Mais Alta em Prova 3:", aluno_nota_mais_alta[0])
 
-
+# Média do Cristiano
 media_por_prova = calcular_media_notas(dados, ["Prova 1", "Prova 2", "Prova 3"])
 print("Média de Notas por Prova:\n", media_por_prova)
